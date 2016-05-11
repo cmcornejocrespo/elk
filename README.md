@@ -1,2 +1,2 @@
-# elk
-(Dockerized) Elasticsearch, kibana and fleuentd
+# kibana, elasticsearch and fluentd
+
